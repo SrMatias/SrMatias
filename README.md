@@ -8,9 +8,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MURILOMATIAS&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrMatias&layout=compact&langs_count=7&theme=merko"/>
 </div>
-  <div style="display: inline_block"><br>
- <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
+<img src="https://i.picasion.com/resize92/57e1e356b22a61750c8b6fdff7978caa.gif"align="right"  width="150" height="150" border="up" alt="picasion.com" /></a><br /><a 
